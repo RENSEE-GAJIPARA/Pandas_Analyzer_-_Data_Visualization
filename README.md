@@ -9,15 +9,6 @@
 
 > A comprehensive, menu-driven Python application for end-to-end sales data analysis and visualization, built on the **Kaggle Superstore Sales Dataset**. Covers data loading, cleaning, statistical analysis, aggregation, pivot tables, and 10 different chart types.
 
----
-
-## 👤 Author
-
-| | |
-|---|---|
-| **Name** | Rensee Gajipara |
-| **Domain** | Python Development · Data Analysis |
-| **Core Skills** | Python, Pandas, NumPy, Matplotlib, Seaborn, OOP, Data Wrangling, Statistical Analysis, Data Visualization |
 
 ---
 
@@ -170,42 +161,6 @@ Enter your choice:
 
 ---
 
-## 📷 Output Screenshots
-
-> Add your screenshots to the `screenshots/` folder and they will display here.
-
-### 1. Load Dataset
-![Load Dataset](screenshots/01_load_dataset.png)
-
-### 2. Explore Data
-![Explore Data](screenshots/02_explore_data.png)
-
-### 3. Handle Missing Data
-![Missing Data](screenshots/03_missing_data.png)
-
-### 4. Descriptive Statistics
-![Statistics](screenshots/04_statistics.png)
-
-### 5. Bar Plot — Sales by Region
-![Bar Plot](screenshots/05_bar_sales_region.png)
-
-### 6. Scatter Plot — Sales vs Profit
-![Scatter Plot](screenshots/06_scatter_sales_profit.png)
-
-### 7. Line Plot — Monthly Sales Trend
-![Line Plot](screenshots/07_monthly_trend.png)
-
-### 8. Heatmap — Correlation Matrix
-![Heatmap](screenshots/08_heatmap.png)
-
-### 9. 4-in-1 Sales Dashboard
-![Dashboard](screenshots/09_dashboard.png)
-
-### 10. Save Visualization
-![Save](screenshots/10_save_visualization.png)
-
----
-
 ## 🏛️ Class Architecture
 
 ```
@@ -259,6 +214,18 @@ SalesDataAnalyzer
 - **Furniture** can yield negative profit on high-discount orders.
 - **Consumer** segment accounts for roughly 50% of total sales.
 - Higher discounts strongly correlate with lower (or negative) profit — visible in the scatter plot.
+
+---
+
+
+## 👤 Author
+
+| | |
+|---|---|
+| **Name** | Rensee Gajipara |
+| **Domain** | Python Development · Data Analysis |
+| **Core Skills** | Python, Pandas, NumPy, Matplotlib, Seaborn, OOP, Data Wrangling, Statistical Analysis, Data Visualization |
+
 
 ---
 
